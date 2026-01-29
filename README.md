@@ -1,8 +1,11 @@
 ## Hi there 👋
 
-<!--
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=7e15f7&random=falsesize=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hi+There!+👋;+I'm+Shubham+Hundalekar+👨🏻‍💻;" />
+</h1>
+<!-- <!-- 
 **shubham-hundalekar/shubham-hundalekar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -12,5 +15,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ... -->
+  -->
